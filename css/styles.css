@@ -1,0 +1,80 @@
+.postheader {
+    background: url("../assets/img/creative-ideas.png");
+}
+.postheader div {
+    display: flex;
+    flex-direction: column;
+    padding-top: 220px;
+}
+.postheader h1 {
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: 29%;
+    margin-right: 27%;
+    text-align: center;
+}
+.postheader p {
+    font-family:"Poppins";
+    font-size: 12px;
+    padding-top: 25px;
+    padding-left: 35%;
+    padding-right: 33%;
+    text-align: center;
+}
+.postheader .primary-button {
+    margin:25px 45% 155px;
+}
+.product {
+    background-color: #f1f1f1;
+    height: 620px;
+}
+.product .content {
+    display: flex;
+    margin-top: 125px;
+}
+.product .page-header nav a {
+    color: #000000;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.product .page-header button {
+    background-color: #f1f1f1;
+    border: none;
+}
+.product .page-header nav a:hover {
+    background-color: #808080;
+}
+.product .menu-container:hover nav {
+    display: block;
+}
+.product .menu-container:hover button {
+    background-color: #808080;
+}
+.product .content div img+img {
+    position: relative;
+    top: -365px;
+}
+.product .content div:last-child {
+    margin-right: 200px;
+    margin-left: 70px;
+    margin-top: 80px;
+}
+.product .content div h2 {
+    font-size: 44px;
+    font-weight: bold;
+    
+}
+.product .content div p {
+    font-size: 9px;
+    font-family: "Poppins";
+    font-weight:lighter;
+    line-height: 15px;
+    margin-top: 23px;
+}
+.product .content .button {
+    margin-top: 25px;
+    border-color: #000000;
+}

@@ -1,0 +1,43 @@
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-right: 25px;
+    margin-bottom: -40px;
+    position: relative;
+}
+.menu-container {
+    position: relative;
+    display: inline-block;
+}
+.page-header nav {
+    display: none;
+    position: absolute;
+    left: -70px;
+    
+}
+.page-header .menu-container ul {
+    list-style: none;
+}
+.page-header nav a {
+    color: #ffffff;
+    padding: 10px 16px;
+    text-decoration: none;
+    display: block;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.page-header button {
+    background-color: #000000;
+    border: none;
+}
+.page-header nav a:hover {
+    background-color: rgb(117, 207, 177);
+}
+.menu-container:hover nav {
+    display: block;
+}
+.menu-container:hover button {
+    background-color: rgb(117, 207, 177);
+}

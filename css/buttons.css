@@ -1,0 +1,12 @@
+.button {
+    background: none;
+    border: none;
+}
+.primary-button {
+    padding: 13px 25px;
+    font-size: 8px;
+    border: 2px solid #ffffff;
+    font-family:"Poppins";
+    font-weight:lighter;
+    text-transform: uppercase;
+}
