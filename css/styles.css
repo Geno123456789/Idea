@@ -65,7 +65,6 @@
 .product .content div h2 {
     font-size: 44px;
     font-weight: bold;
-    
 }
 .product .content div p {
     font-size: 9px;
@@ -77,4 +76,57 @@
 .product .content .button {
     margin-top: 25px;
     border-color: #000000;
+}
+.properties {
+    background-image: url("../assets/img/background-image.png"), url("../assets/img/background-black.png");
+    margin-bottom: 70px;
+}
+.properties div {
+    display: flex;
+}
+.properties .content-container {
+    display: flex;
+    flex-direction: column;
+    margin:238px 250px 164px 155px;
+}
+.properties .content-container h2 {
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 14px;
+    line-height: 40px;
+}
+.properties .content-container p {
+    font-size: 11px;
+    font-weight: lighter;
+    font-family: "Poppins";
+    margin-bottom: 24px;
+}
+.properties .content-container div ul {
+    display: flex;
+    list-style: none;
+}
+.properties .content-container div li h3 {
+    font-size: 9px;
+    font-weight:500;
+    font-family: "Poppins";
+}
+.properties .content-container div li {
+    margin-right: 20px;
+}
+.properties .content-container div li img {
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
+.properties .iphone {
+    margin-right: 20%;
+    background:url("../assets/img/screen-image.png") no-repeat 17px 140px;
+}
+.properties .content-container div li:last-child img {
+    padding-bottom: 15px;
+}
+.properties .content-container div li:first-child img {
+    padding-bottom: 12px;
+}
+.properties .page-header button {
+    background-color:#495459;
 }
