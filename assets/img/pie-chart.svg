@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="37" height="37">
+	<title>Services</title>
+	<defs>
+		<image  width="37" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAlCAMAAADyQNAxAAAAAXNSR0IB2cksfwAAArJQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////RszgMQAAAOZ0Uk5TAAUqZqDL0MHNxWcyAwhRpt73+f/69t2uTA9vyNm0e1Afa+94LHy24M9zQb7clzgOAULoAgs0o8ZE8UrrWiavggmS/X1L7Fxyp5pfO+NI/vBZTi4gbKllG4EKyuJ57dqkdp7n07VVFLecPxAWPqz1DcMTvFT4u0Dy5i/fKSsYaCeWM8500YVWQ6pj1zFg4fNhiMQX5V2OwBGy2Hoi7ph1R26/htKKlR0HjxxPV0XHuR4GnfQtjCR3ofxG1mlJqJmtyXHUXjU2U4A6MNttYqVwk4MaZJAZNxIjOT08h5/7UqtNFenkuIQB37PIAAADO0lEQVR4nGNgQAKMTMwsrGzsHJwsXNw8DDgALx+/gKCQsLCwiKiYuAQvVjWSUtIysnLyCopKyiryqmrqGppY1Glp6+jq6RswMBga8TEwGJuYmhmZWxijquHRtBTnhjCtrG0gDFs7EXsHFEWOTs4wtourG4zpLuSBbKunsBec7e3jC2dL+LEgFEkJKyI4fP4BCE6gsDuMGSTsCWMGh4RaC/uHhoXDBCKEVCCMyKhoE6hYTKxwXHxCoo5IkiZMWXIKhLYRToUw0tKFMzKzgIzsHH7h3Cyol/PAzszXLoAES2FRrAvcQcUlRflghnGpOIgsK2eGerSiEsnbmeUeBhCrqqp5GGpUxWohuo1SGZBBnXAxmK6vamhkUBTPBXMM0tVQ482BsykSRGfJRjczxLe0ggWZ4toYUAGXXzvYYRHCHQysFZAQ7exSQVPVLWoPpnuEORh6+/rB7AkTFdBUTfLpANN8wuoMkwWngNlTp4WjqZpeNQNMBwpXMMyM7QSzZ7XMRlMVPGcumG4TlmEoFZsHZltEN6Kpmi8MsWWB8EKGRdMgOngXL0FTtTRvGYhanig4lUHLMQoSQRMqUJ1fKbgCTK9MnraKwWR1+RowL21tInLuclg3ORvMMKwolmRgWD8TYiWDi8jUDXBFWRuFIQnbeMVEsF2tmzaDKP0t6kqlQZEQR2baxRnxg1PdVvVtYKFqo+1A0qRjh9XOXcIeuyXW7JHa69OhZxHNngYU39c0CWJ6mHA/g6QH2355hsoDLDPmWEt37bJiOLhmedKhWgbfksNQN/CIix5ZJJzAqzLl6PRlq1yOHT+RNrv4pKG34Sm7I1UdBjCnph0Qzj19Zrnk2fkM584zMFxQYeBawbB1/0UGNuGJWQhvhydXmDCEXcrOvFx5JUJx5dWIa+EJp8OXS5TrXEcOwotrN7mtusFwM6OeZ9EC48olktdm3WK4LbwWRREwAbAIn7VKsGWou2NiYlbGUHaYIWia8PlCBnQwhfOu8KLZN8ryefeszL7ncX/TzAcYakCOmzJXLCl3wsSiRaGHZi4WD3uITREQbLi5iP2Rv8iOx0/syyJxqAGCaw+WTizgkFn3NPAKijgAk5LhgXPRulMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Services">
+		<g id="SVG Icons">
+			<use id="Pie Chart copy 2" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

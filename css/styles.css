@@ -79,7 +79,6 @@
 }
 .properties {
     background-image: url("../assets/img/background-image.png"), url("../assets/img/background-black.png");
-    margin-bottom: 70px;
 }
 .properties div {
     display: flex;
@@ -119,7 +118,7 @@
 }
 .properties .iphone {
     margin-right: 20%;
-    background:url("../assets/img/screen-image.png") no-repeat 17px 140px;
+    background:url("../assets/img/screen-image.png") no-repeat 17px 145px;
 }
 .properties .content-container div li:last-child img {
     padding-bottom: 15px;
@@ -129,4 +128,44 @@
 }
 .properties .page-header button {
     background-color:#495459;
+}
+.services {
+    background-color: #323c6d;
+    color: #ffffff;
+}
+.services .info {
+    padding: 200px 230px 170px 205px;
+}
+.services .info div {
+    display: flex;
+    margin-bottom: 65px;
+}
+.services .info div h3 {
+    font-size: 29px;
+    font-weight: bold;
+    margin-right: 80px;
+}
+.services .info div p {
+    font-family:"Poppins";
+    font-size: 9px;
+    font-weight: lighter;
+}
+.services .info div h3+p {
+    margin-right: 30px;
+}
+.services .info ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.services ul li h4 {
+    font-family:"Poppins";
+    font-size: 9px;
+    margin-top: 15px;
+}
+.services ul li img {
+    padding-left: 15px;
+}
+.services .page-header button {
+    background-color:#323c6d;
 }

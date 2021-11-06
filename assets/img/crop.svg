@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="35" height="35">
+	<title>Services</title>
+	<defs>
+		<image  width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAAAXNSR0IB2cksfwAAAkZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////waMH0wAAAMJ0Uk5TAHDW2M9bNcKUg/7/9Ws66bUFrfzmj8G+Nqulfj4DFSg4y1Z3vS8yMTAmdWqKucnX4maC0drg2+Vz7ZFZ3m0CidVvaa8E3O97l6JAuB4seZakUMf7xvZkAYHxsLKzrKZYRVpui5rraIbkhY6Qkp8GVbp456gMD8OHSBeVE2OgcmyccV18/X9g+PR9+nSdyCeMX2IHRxRUDg0bCSIL88rO3cSYZYiutLuxt6MRxXYt+cxhXOHovIBnIyASetQkmTfN3wi7Dd6BAAACNUlEQVR4nGNgAAFGJmZmFlYGbICNnQPC4OTi5ubhxaqGj18ATAsKCYvwc4tiVSPKLQZhiItK8ElKYVPCyS0twyArKCevoKjEwKCsIq+qpo4CNDS1uLWBCnV09fQNuA0ZGIy4jU0MTFGAmTmXBcgwS25uK2sbWwY7ewdWW0ZHFODkbOwCUuPK7SbPIODOIOjhiekaL28fqBpfBl0/BkH/AEw1gWLyICooODhEIDSMITwiUigqGgZiYuOi4xkYlMQ0QWoSEpOSU1LTGMLTMzKzsqEgx0jZlDs3jyEfogYchgWFDHmodjkFFRWXIKspLVMGukcSSUk5d4WjeCVeNZzcYQxVetX41ERw1zAw1AbhU1PHXQ8kG/CpceJuZCCgpom7mYGAmsSWVgYCatraORkIqHHq4LTDp0YI6COeCJgS7GoaGDq7uhHh2NNbzaDE3oeipj9lguVEhBIGDvFJDJN1pyCrCTfqMJ/KMG06FJS4ePbOmDk1ZNZsJDUM0txzhMTm9kJBiEow97wyfu75CxYugqopDGfQiFi8xHspHCyzyly+wjN9JRM3P1jNqtVrwhlwgLXrTKDmYM/rICAXvB7C0GWvc2xEARZrNmxs1ErbaJjCvQmsZNFmxRXLtiADcW/nTalboo1TF4hFbQWqCN/W0Vnps30WMti+o9p5/axpE+Z5+eycxMDGt2tOqywWh2TvVthTOHcGiBnCzb0Yq2OduIGAaSeIuZfJeB9WNTL7iw7oZx0EsgCLMdIzCaSWzgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Services">
+		<g id="SVG Icons">
+			<use id="Crop copy 3" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

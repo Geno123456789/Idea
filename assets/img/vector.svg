@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="36" height="36">
+	<title>Services</title>
+	<defs>
+		<image  width="36" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAAXNSR0IB2cksfwAAAoJQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////QcaUBQAAANZ0Uk5TAEjpvxYbmN3fvU517Yv+0RUcpvL1z1R+/5kFD4f6OBrOZwSqHweRsNeBwlhQUlE+MDN48JZ61K9CQCtJyMHLldkj6/HF2PPqA5Po+OHm4u+dd4yzrcNdT0FKVo/gfLaxLURTid6f5ckGYsov0tbGQxEOgpoCCyYIcRL9awx9OgmXZZIBxLt2HR5aJbKepc25ZrQuqIMhP+yue1wiWyycDRRgxxgZlLoTWZsghLwXbSpprKSG5/Z/2tDkgBC3iFXA9zf5bzupRu6+CvtjKGhsTXP0J6LjXy3OJJgAAAMRSURBVHicfZLpO9RRFMcPEibCTDj2fSiGNNRkX8fOpETIlpiiyWg0WWI0yC5FaFMqa1QoFImypFRU/0/3N/Mz5YU5L873e87zeZ577rkXADQ0tfbAdmjv1dHVY6hK2KdvoFDGfkMjVdOYyTpgYvoPMkNzki0srdDaRtW0tUO0tleVDo5o6OQMbBfXgy6H3DTcOaYenoe9jnC9fY4e4x339TQ1dWf4GfibBQQGAWIwhCCGhmmGRyA/0pofBdEYExvHj09I5IahAE4gQtJJ1qnA5NMpnNQzaekZZ+0x04frz4jGrGzjnNzcc3nn8wvYAMILkRdDyPGFRX5A1PuSKOAyAKc4NUlMuiVhV2wlihuVAkgK3QRXiZdI/a6VKWZ2K6+gxOnfTaVM/0rapusoIQixuV4F/0e1rIZ2l8PwBm3ltXXV/zEe9Tdp1xDOT4hppIsmDacoFSNvbhHStuWQQWt0mzZdFbffUkHOKU20c0NGTcftwDt0WSro3Ga60u/SzrK7B3pFFhp4b/tC90tp9wC3H8uR/xBKRJbQyqKfXMp+RE/Ux3tMz49PyPr6n8KzxGYaej4gVzqvQaWWaYqAgsjvGsI02BmuTKUOl4+QPFpAIPkL1piiZzT+kuRXo68RO6mvycNxqt2rRc0zFjtBchTHDiMm7WEK3/hMlOeQtq5Isbm3gVJKKpD8z7666fEZnCKQFmRnpIC8c5Y6DFLz9r9zJipxzOiC93PzUI/xMI1TH0a7ecDTr6eYkWkZJ0GxZl+uQOicFeCeidMw2dy2UMDUlvZ8TB6wl8Li0idjnSSAz8sDs7ErUFG7YBJgBRbSPnGfFAZrKnyWWUwhzAebtPtC4+ra/KsTiyApFYu/WOzYhfu6mVzydfIbLPLNYdeQ6TdQIpFNVe4ObeQrv4O33u4MfE+oqi4uthyUzamBfqzn9xsWtR1dGlYDDYUuz7PZ6c8NW9VAP8lMDuRxvEVqIMbmTMfaQt3aqkANJDTAXpuclKICsRoIhhI3Graq9H6pY2BlE6kIUgttucTPxv2e+bOz+xdqjNUjVQqPagAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Services">
+		<g id="SVG Icons">
+			<use id="Vector" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

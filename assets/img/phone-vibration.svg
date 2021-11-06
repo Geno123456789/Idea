@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39 37" width="39" height="37">
+	<title>Services</title>
+	<defs>
+		<image  width="39" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAlCAMAAAD2tQAMAAAAAXNSR0IB2cksfwAAAl5QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////QfZ6JgAAAMp0Uk5TAC2v5tze3c3HyNPRy9vuPAqO//Hl5/j266sTARUFFLReONlwICkrIieJv7hrcZ41JU/yYjqqMBcDGNWNtl1VzigHDAYLh8VfaaQbDQTMgz6tJi4xilbswMTDvsLGuvyGQosq+4Jjopecm5iTlJqZlp2V74V2km+ucwg0HG4SV2xtu06RSmVDU0laFlJLWb0JHXwPAmgRGblqOx8ytw7UyVRhypCERB6jfUCpELJF97W8s+im+aWM2jZ5dOJgIaih0n57gEE/19DPUbjviDUAAAKwSURBVHicY2CAA0YmZhYWVjZ2Dk4ubh5eNl5ePnZ+BkwgICgEBsIiomLiEhC2pBSyCmkZWTl5BUUlZRVVNXUNTS1tHV09fQM1NSlDI2MTUzNZcwuIOksrawEbWzt7B0cnJ2cXV243dw9PL0cnbx8BXz//AAcd3kCgoiDF4OCQUCDDOIwj3C2CIzIqMjpKKyraLSImKjYuHmhUQiJ/UiADd7JQCtjUVJG09IzMjIys7JzcvPyMjMyC/MIiVx+QVLGQEkNJaT4jWF2ZG6bfytMdQZRZZgWQrKyqBnFqeGox1MXmg9TJVQlIM9Q61QnVg8QaeKQw1DWC1TUJNbcwOFsEegTiV2fe2qYC4lW3W+JT590RCOHpCiXgU6cmHALhBXZ24TWv2wzK7VH2xq1OtrcOxg3p68Ktrr8wH8b1ChLApc6ZwcdgAowrWzrRB4c6WYa6nEkwrkts9mSc6qZomcP5TlMtcNrb74LgT5tezzADm7pCn5nySQj+rL5U7OryLWbPmY0k4NJloYNVXeVcF2QB/3lttvPlMNVZe2kvQBbQL2BcuAiLusVyS5aiiCybNgObec3V1ZNRRMqWr4jG4r7mnCWoIopN9dECGOpsQjpWognNXmUv1+/t7e0ydzUQOgFZkxwZ1ritRdeaJbSub33Uhg1RWquyVvVtAILwjeWbhGyc0NQ5aPJFTNeK0opIS5+utzk8KioqfM70LVvN0M1j2GbvDGEUbyqGFigM5Wu80ZVZcG2XBTMKi1bxWkMF08ST0NUxTLQHh9+O5J0Mu3bLQMRit2KYx7AwBpwevX3n7YmdUwkRmx7ig6EudZ4DmN67j3W/BkTI5YC1BYY6dV+Okp0TJx5sPbTvsMeKQ4cmltTPYT6CoYyB4aj2sePcB7jYI6Ld2A9wc3OfYOE+CZcEAH2zyf+fAUPuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Services">
+		<g id="SVG Icons">
+			<use id="Phone Vibration" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
