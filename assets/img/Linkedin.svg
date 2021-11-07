@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12" width="12" height="12">
+	<title>Contact</title>
+	<defs>
+		<image  width="12" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAAAXNSR0IB2cksfwAAANtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////ZlEDkgAAAEl0Uk5TDojHxJQPStv/5UzToarO5hku2NSesPPI2rrCzzVZHRgAddLgJDqzE90/n0ve5B63fSfiZX7VXYJg42z3+vz9+P4SkdfN2dDJnCbWYdcAAACCSURBVHicLcfVEoIAFAXAI4ocW8EC61qIgY0BFvb/f5EzDvu2QExR4n8JFUmNkVQaGWZz0fIosFiKosNguVKt1U2LbEBjs2Wh3ZEue+hTBqYM7ZHQgUN1bMmEU+EMLmW+kCVXQhdrbrbezub+wCP84HRmQF6uNx/h/eE9X++PoX/DH9epDorIErV1AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact">
+		<g id="Content">
+			<g id="Socials">
+				<use id="Linkedin" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

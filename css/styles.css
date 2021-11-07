@@ -169,3 +169,76 @@
 .services .page-header button {
     background-color:#323c6d;
 }
+.page-footer {
+    background-image: url("../assets/img/background-footer.png"), url("../assets/img/background-black.png");
+}
+.page-footer > div {
+    padding-top: 225px;
+    padding-bottom: 130px;
+    padding-left: 15%;
+    padding-right: 15%;
+    color: #ffffff;
+    display:flex;
+}
+.page-footer div .content-info {
+    margin-right: 120px;
+}
+.page-footer div .content-info h2 {
+    font-size: 44px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    white-space: nowrap;
+}
+.page-footer div .content-info h2+p {
+    font-family:"Poppins";
+    font-size: 11px;
+    margin-bottom: 30px;
+}
+.page-footer div .content-info .contacts h3,
+.page-footer div .content-info .contacts h3+p,
+.page-footer div .content-info div h3 {
+    font-family:"Poppins";
+    font-size: 9px;
+    margin-bottom: 12px;
+}
+ .page-footer div .content-info .contacts {
+    display: flex;
+    margin-bottom: 38px;
+}
+.page-footer div .content-info .contacts div:first-child p {
+    margin-right: 40px;
+}
+.page-footer div .content-info div img {
+    margin-right: 12px;
+}
+.page-footer div .content-form {
+    margin-top: 50px;
+}
+.page-footer div .content-form input {
+    width: 115px;
+    margin-right:10px;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    font-size: 7px;
+    font-family: "Poppins";
+    padding-bottom: 5px;
+}
+.page-footer div .content-form input:last-of-type {
+    width: 368px;
+    margin-top: 110px;
+}
+.page-footer div .content-form input::-webkit-input-placeholder {
+    color: #ffffff;
+}
+.page-footer div .content-form button {
+    margin-top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 30px;
+    background: #ffffff;
+    border-radius: 20px;
+    font-size: 7px;
+    font-family: "Poppins";
+    display:block;
+}

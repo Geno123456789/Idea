@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 13" width="14" height="13">
+	<title>Contact</title>
+	<defs>
+		<image  width="14" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAAAXNSR0IB2cksfwAAAThQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////4g1iRQAAAGh0Uk5TAGHQy83OychRBh/E5czPwtG3EX7DwCAEKm/Vp+D5FDqHgC5YvTbt3uEObP+lrvVqHSLj1NPkCBvyaYbcGuZB8RkP0gsS6JXYTMfrN+fX2/slUx5A9tpkqkMjFQoXJE6RZQKi6pMHW8ru3jGPAAAAv0lEQVR4nBWM51aCAABGPxNQUJy5NbeVuwR3OVBxgKmFuUeu938D6ee959wLQPOgJUiSoHR6ADRjMLIkRZnMFquNhv3R4XSpGm6P12eHP/AEBEPhSDQWTzzD+/KKZCqdyebyb+8FcHyxVK4A1RrqH5yK+Gz8t6lmy8ihzQudbg/FTI1m+DZEXkC/PGCHIzCSjPHXBJhEpzPg+0fB/FdZLFfr9Wa7k/YHHIW/oajIoiKezpejuryabixBsDeqD9wBOcAddzToiAEAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact">
+		<g id="Content">
+			<g id="Socials">
+				<use id="Instagram" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

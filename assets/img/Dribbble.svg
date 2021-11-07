@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 13" width="11" height="13">
+	<title>Contact</title>
+	<defs>
+		<image  width="11" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAANCAMAAABIK2QJAAAAAXNSR0IB2cksfwAAARFQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////jDOxHwAAAFt0Uk5TAGGxxM9tQc7qs826PFqnxzt2/1g5vkp4rz3CL6OXBjJw74IDg6HI467AhqC1JYe8qGc4dPPKqdnFuVsnv6U6mZOeQN+sD2WVliC25TCUq0KYHDbb8SLL15ojw/qF0Z0AAACSSURBVHicJY7XAoEAAEUvhURGJFtGdimb7L1X9v9/CHJfznk7FwBMZoK0wJjVRtlph/OnDO1ye+BlfYCfC4APhngyHEE0Fk8IbDKVzojI5vKFYqksSXIFnKJWUas3mq02Ol1oPbHQHwwJjMaT6Wy+WEJeYb3ZCsBurxw04EidzrjoVyN2E/X74/n6n1Dv9Jv58gNehBKth7M0pAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact">
+		<g id="Content">
+			<g id="Socials">
+				<use id="Dribbble" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>

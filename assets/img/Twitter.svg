@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 12" width="13" height="12">
+	<title>Contact</title>
+	<defs>
+		<image  width="13" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAMCAMAAACOacfrAAAAAXNSR0IB2cksfwAAANVQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////fPoPwAAAAEd0Uk5TFgwAksSQOzQjHRQSq9ypTkErZqYZjf/nn09YxlQlE/Eq79m69u08+v7SDpp5MDfW+EUodJj0wT4hitve1LNtGxx6xcmgWhFxPOaZAAAAg0lEQVR4nC3N1xKCUBAD0GVt2BU12DuC2Bv2Xv7/k9wL5O1MZhIijSVaJBqLJ3RKppTSmWwuXyiSUSqLKgDMao3qaDRb7Y4Ihk7dHtAfDAUWM41sB0HGIncSAlMRzxCUpqvE84XCciXTtN5sdwJvr27pcDydL9fbnX09nq+39/n+fP0BsJ0OLDzXYsQAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Contact">
+		<g id="Content">
+			<g id="Socials">
+				<use id="Twitter" href="#img1" x="0" y="0" />
+			</g>
+		</g>
+	</g>
+</svg>
