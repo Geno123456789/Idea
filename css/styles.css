@@ -1,5 +1,7 @@
 .postheader {
     background: url("../assets/img/creative-ideas.png");
+    padding-left: 10%;
+    padding-right: 10%;
 }
 .postheader div {
     display: flex;
@@ -9,20 +11,20 @@
 .postheader h1 {
     font-size: 55px;
     font-weight: bold;
-    margin-left: 29%;
-    margin-right: 27%;
+    margin-left: 22%;
+    margin-right: 22%;
     text-align: center;
 }
 .postheader p {
     font-family:"Poppins";
     font-size: 12px;
     margin-top: 25px;
-    margin-left: 35%;
-    margin-right: 33%;
+    margin-left: 30%;
+    margin-right: 30%;
     text-align: center;
 }
 .postheader .primary-button {
-    margin:25px 45% 155px;
+    margin:25px auto 155px;
 }
 .product {
     background-color: #f1f1f1;
@@ -35,7 +37,6 @@
 .product .page-header nav a {
     color: #000000;
     padding: 10px 16px;
-    text-decoration: none;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -58,8 +59,8 @@
     top: -365px;
 }
 .product .content div:last-child {
-    margin-right: 200px;
-    margin-left: 70px;
+    margin-right: 18%;
+    margin-left: 6%;
     margin-top: 80px;
 }
 .product .content div h2 {
@@ -80,13 +81,13 @@
 .properties {
     background-image: url("../assets/img/background-image.png"), url("../assets/img/background-black.png");
 }
-.properties div {
+.properties div, .properties .content-container ul {
     display: flex;
 }
 .properties .content-container {
     display: flex;
     flex-direction: column;
-    margin:238px 250px 164px 155px;
+    margin:238px 21% 164px 15%;
 }
 .properties .content-container h2 {
     font-size: 44px;
@@ -100,31 +101,24 @@
     font-family: "Poppins";
     margin-bottom: 24px;
 }
-.properties .content-container div ul {
-    display: flex;
-    list-style: none;
-}
-.properties .content-container div li h3 {
+.properties .content-container ul li span {
     font-size: 9px;
     font-weight:500;
     font-family: "Poppins";
+    display:block;
 }
-.properties .content-container div li {
+.properties .content-container ul li {
     margin-right: 20px;
 }
-.properties .content-container div li img {
+.properties .content-container ul li img {
     padding-bottom: 10px;
     padding-left: 15px;
+    width: 40px;
+    height: 40px;
 }
 .properties .iphone {
-    margin-right: 20%;
     background:url("../assets/img/screen-image.png") no-repeat 17px 145px;
-}
-.properties .content-container div li:last-child img {
-    padding-bottom: 15px;
-}
-.properties .content-container div li:first-child img {
-    padding-bottom: 12px;
+    padding-right:20%;
 }
 .properties .page-header button {
     background-color:#495459;
@@ -134,13 +128,13 @@
     color: #ffffff;
 }
 .services .info {
-    padding: 200px 230px 170px 205px;
+    padding: 200px 10% 170px 20%;
 }
 .services .info div {
     display: flex;
     margin-bottom: 65px;
 }
-.services .info div h3 {
+.services .info div h2 {
     font-size: 29px;
     font-weight: bold;
     margin-right: 80px;
@@ -150,18 +144,18 @@
     font-size: 9px;
     font-weight: lighter;
 }
-.services .info div h3+p {
+.services .info div h2+p {
     margin-right: 30px;
 }
 .services .info ul {
-    list-style: none;
     display: flex;
     justify-content: space-between;
 }
-.services ul li h4 {
+.services ul li span {
     font-family:"Poppins";
     font-size: 9px;
     margin-top: 15px;
+    display: block;
 }
 .services ul li img {
     padding-left: 15px;
@@ -173,7 +167,7 @@
     background-image: url("../assets/img/background-footer.png"), url("../assets/img/background-black.png");
 }
 .page-footer > div {
-    padding-top: 225px;
+    padding-top: 200px;
     padding-bottom: 130px;
     padding-left: 15%;
     padding-right: 15%;
@@ -181,25 +175,26 @@
     display:flex;
 }
 .page-footer div .content-info {
-    margin-right: 120px;
+    margin-right: 10%;
 }
 .page-footer div .content-info h2 {
-    font-size: 44px;
+    font-size: 40px;
     font-weight: bold;
     margin-bottom: 20px;
-    white-space: nowrap;
 }
 .page-footer div .content-info h2+p {
     font-family:"Poppins";
     font-size: 11px;
     margin-bottom: 30px;
+    line-height: 16px;
 }
-.page-footer div .content-info .contacts h3,
-.page-footer div .content-info .contacts h3+p,
-.page-footer div .content-info div h3 {
+.page-footer div .content-info .contacts span,
+.page-footer div .content-info .contacts span+p,
+.page-footer div .content-info div span {
     font-family:"Poppins";
     font-size: 9px;
     margin-bottom: 12px;
+    display:block;
 }
  .page-footer div .content-info .contacts {
     display: flex;
@@ -227,18 +222,8 @@
 .page-footer div .content-form input:last-of-type {
     width: 368px;
     margin-top: 110px;
+    margin-bottom: 35px;
 }
 .page-footer div .content-form input::-webkit-input-placeholder {
     color: #ffffff;
-}
-.page-footer div .content-form button {
-    margin-top: 35px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px 30px;
-    background: #ffffff;
-    border-radius: 20px;
-    font-size: 7px;
-    font-family: "Poppins";
-    display:block;
 }

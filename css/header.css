@@ -2,10 +2,9 @@
     display: flex;
     justify-content: space-between;
     padding-top: 20px;
-    padding-left: 35px;
-    padding-right: 25px;
+    padding-left: 3%;
+    padding-right: 2%;
     margin-bottom: -40px;
-    position: relative;
 }
 .menu-container {
     position: relative;
@@ -16,13 +15,9 @@
     position: absolute;
     left: -70px;
 }
-.page-header .menu-container ul {
-    list-style: none;
-}
 .page-header nav a {
     color: #ffffff;
     padding: 10px 16px;
-    text-decoration: none;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
